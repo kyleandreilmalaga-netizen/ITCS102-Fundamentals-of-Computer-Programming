@@ -1,4 +1,4 @@
-#size = eval(input("Input of x ----> "))
+size = int(input("Input of x ----> "))
 
 for x in range(5): #size
     for y in range(5): #size
