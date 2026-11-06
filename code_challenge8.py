@@ -1,3 +1,4 @@
+#diamondloop
 subject = int(input("Enter the number of row: "))
 
 for x in range(0, subject):
