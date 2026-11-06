@@ -1,3 +1,4 @@
+#Xloop
 size = int(input("Input of x ----> "))
 
 for x in range(5): #size
