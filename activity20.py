@@ -1,4 +1,3 @@
-#act20lessgoo
 anime = []
 answer = input("Do you watch anime? (yes/no) --> ").lower()
 
